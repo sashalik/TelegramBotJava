@@ -1,0 +1,17 @@
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/libraries/telegrambots_4_0_1_jar_with_dependencies.xml
+.idea/libraries/mysql_connector_java_5_1_46.xml
+.idea/kotlinc.xml
+.idea/artifacts/TelegramBot_jar.xml
+out/production/TelegramBot/forms/FrmMain.class
+out/production/TelegramBot/forms/FrmMain$1.class
+out/production/TelegramBot/dbclass/ConnectionSQL.class
+out/production/TelegramBot/comprocessing/TypeMessages.class
+out/production/TelegramBot/comprocessing/Commands.class
+out/production/TelegramBot/META-INF/MANIFEST.MF
+out/production/TelegramBot/BotTelegramMagpie.class
+out/artifacts/TelegramBot_jar/TelegramBot.jar
+out/artifacts/TelegramBot_jar/GoJar.bat
